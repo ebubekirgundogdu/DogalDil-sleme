@@ -9,3 +9,5 @@ Dilin yapısal özelliklerini anlamak için dilbilim ve matematiksel yöntemleri
 Bu teknolojiler, aynı zamanda makine öğrenimi teknikleri ile birleştirildiğinde, bilgisayarların doğal dilde daha da gelişmiş bir şekilde etkileşim kurabilmelerini sağlar. Bu sayede, daha karmaşık ve gerçek dünya uygulamaları da mümkün hale gelir.
 
 Sonuç olarak, doğal dil işleme, günümüzde hemen hemen her sektörde kullanılan önemli bir teknolojidir. İleri doğal dil işleme teknolojileri, insanlarla bilgisayarlar arasındaki etkileşimleri daha da geliştirerek, hayatımızı kolaylaştıracak yeni uygulamaların geliştirilmesine olanak sağlayacaktır.
+
+www.patika.dev
